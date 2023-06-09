@@ -26,6 +26,11 @@ hash = "ca4c66e6e0c96f139fb996915277a0a417a55fc5ffa8810d0aaa5dd07080399c"
 metafile = true
 
 [[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "f7d04ceb6755bd743608fbc6c31e64334050c1910825b1c84a21aef5ebffcdc0"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
 metafile = true
@@ -41,11 +46,11 @@ hash = "6c681a60f617657bb819dae03d180a92a513908705518480391dfd55783b457a"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+file = "mods/mcdiscordchat.pw.toml"
+hash = "5329c18a510cf6a452fd5d1f2153750e0f0a226b3071e720d8bb3d1174005010"
 metafile = true
 
 [[files]]
-file = "mods/tree-harvester.pw.toml"
-hash = "fe471ff6820780ccc50b999eb2506c0ba5942e5d6353c351162e47254f987afa"
+file = "mods/sodium.pw.toml"
+hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
 metafile = true
