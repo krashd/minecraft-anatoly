@@ -11,11 +11,6 @@ hash = "3fdbb304a0534e226796d5ba01b3854ed27e1e60bad665c921daae5b18b800eb"
 metafile = true
 
 [[files]]
-file = "mods/discord-statusbot.pw.toml"
-hash = "4d60e9661e361f6c577656ec5e275e5448e78a00f23450364e4d21ab544acb1b"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4eec3de8a58a6e64ea96e31781b52f70b4b33ec02a34a45f171e3a1e6697ba86"
 metafile = true
