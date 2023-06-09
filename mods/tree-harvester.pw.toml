@@ -1,0 +1,13 @@
+name = "Tree Harvester"
+filename = "treeharvester-1.20.0-8.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/abooMhox/versions/aGmMikTd/treeharvester-1.20.0-8.1.jar"
+hash-format = "sha1"
+hash = "d7c21a8adfbe8f4a54fa469d02d9ded6a4530931"
+
+[update]
+[update.modrinth]
+mod-id = "abooMhox"
+version = "aGmMikTd"

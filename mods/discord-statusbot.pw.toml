@@ -1,0 +1,13 @@
+name = "Discord Statusbot"
+filename = "Statusbot-1.3-1.20.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/G9ZpI0bU/versions/FIj51nJF/Statusbot-1.3-1.20.jar"
+hash-format = "sha1"
+hash = "aacd53178bddd7a9cbf777cea790b8df1c7ee996"
+
+[update]
+[update.modrinth]
+mod-id = "G9ZpI0bU"
+version = "FIj51nJF"
