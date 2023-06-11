@@ -26,6 +26,11 @@ hash = "f7d04ceb6755bd743608fbc6c31e64334050c1910825b1c84a21aef5ebffcdc0"
 metafile = true
 
 [[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "07b0d8737bc1134380f683c92bbe13275f166225930d337796faae277cb3f915"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
 metafile = true
