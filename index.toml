@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "fe2fce2919a781b1ff2b27dfaabddf030dd9bb61d27a7df1f954e4a9ee440bf9"
+hash = "1d893eb508f386beda73402cc63efb102284985f900a4fd5b92e9eb9a7c1cca2"
 metafile = true
 
 [[files]]
@@ -23,11 +23,6 @@ metafile = true
 [[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "f7d04ceb6755bd743608fbc6c31e64334050c1910825b1c84a21aef5ebffcdc0"
-metafile = true
-
-[[files]]
-file = "mods/immersiveportals.pw.toml"
-hash = "07b0d8737bc1134380f683c92bbe13275f166225930d337796faae277cb3f915"
 metafile = true
 
 [[files]]
