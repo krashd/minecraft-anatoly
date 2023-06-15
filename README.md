@@ -2,7 +2,7 @@
 
 This modpack is built using packwiz for seamless updates. Any existing instances will need adjusting to use the packwiz bootloader for Minecraft.
 
-Further information regarding packwiz can be found https://packwiz.infra.link/
+Further information regarding packwiz can be found [https://packwiz.infra.link/](https://packwiz.infra.link/)
 
 ## Manual Installation on existing instance
 1. Head to [https://github.com/packwiz/packwiz-installer-bootstrap/releases](https://github.com/packwiz/packwiz-installer-bootstrap/releases) and download the latest release. Place the jar into your minecraft or .minecraft folder (this folder also contains options.txt)
