@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "01b13bc3600efb1bdc8ffda0e316c08bdbdc8e72e316eba3571d8cbb8e110e48"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "5b089b32ba80ff2c4fcb1cf5ad04e54fe7dfb402d6e1c325f5c42e9b179cb1b0"
 metafile = true
@@ -8,11 +13,6 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "3fdbb304a0534e226796d5ba01b3854ed27e1e60bad665c921daae5b18b800eb"
-metafile = true
-
-[[files]]
-file = "mods/dynmap.pw.toml"
-hash = "7fbf2af0e6209134dc097da2570f0fbed7b0531cf55119986bae87eb4df57b59"
 metafile = true
 
 [[files]]
