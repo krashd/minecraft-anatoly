@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcdiscordchat.pw.toml"
-hash = "5329c18a510cf6a452fd5d1f2153750e0f0a226b3071e720d8bb3d1174005010"
+hash = "fd5c552628fcda7f9c6504c5e7f6712bd87d9649e18da8a13028d7d4fa81ff56"
 metafile = true
 
 [[files]]
