@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "01b13bc3600efb1bdc8ffda0e316c08bdbdc8e72e316eba3571d8cbb8e110e48"
+hash = "1ec63cbc97befa560d1828445ac436c0080dacdf11afa373655f211455066ace"
 metafile = true
 
 [[files]]
