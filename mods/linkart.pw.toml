@@ -1,0 +1,13 @@
+name = "Linkart"
+filename = "linkart-5.1.1-1.19.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sc4Mu9Zu/versions/YdiGztp5/linkart-5.1.1-1.19.3.jar"
+hash-format = "sha1"
+hash = "f81660be8a9404527746de96bc60beb1e0aa9b10"
+
+[update]
+[update.modrinth]
+mod-id = "sc4Mu9Zu"
+version = "YdiGztp5"

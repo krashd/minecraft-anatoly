@@ -51,8 +51,18 @@ hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "b35f3338d78834501de24bd6bd2387dbb7e3bddc8215e8f58fdefbc6026ce2a6"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "af49ad1f36fb92873b79e504092147d7073e433685ff2e3353003363ffd04e7c"
+metafile = true
+
+[[files]]
+file = "mods/linkart.pw.toml"
+hash = "34a33002e1705a5c146ed21cce113b36c023c62dd6742f1e02dd5f086e195e08"
 metafile = true
 
 [[files]]
